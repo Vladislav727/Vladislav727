@@ -50,7 +50,17 @@ const vladislav = {
 <div align="center">
 
 ### ⚙️ Backend
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+<div align="center">
+  <a href="https://laravel.com">
+    <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20LARAVEL%20ENTHUSIAST%20%E2%9D%A4%EF%B8%8F-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
+  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artisan-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Livewire-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</div>
+
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![Filament](https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=black)](https://filamentphp.com)
