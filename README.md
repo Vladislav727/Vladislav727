@@ -116,24 +116,6 @@ const vladislav = {
 
 ---
 
-## 📅 Timeline
-
-```
-2022  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━��━━━━━━━━━━━━━━━━━━  2026
-  │                                                           │
-  ├─ 🚀 Started programming                                  │
-  ├─ 📚 HTML, CSS, JavaScript — first steps                  │
-  │                                                           │
-  ├─ 🎓 College begins (2023)                                │
-  ├─ 🔥 Discovered Laravel — fell in love with backend       │
-  ├─ 💻 Built FitLife, Hotel Reservation, e-Shop...          │
-  ├─ ⚛️  Learned React, Vue, Next.js                         │
-  ├─ 🛡️  Built secure auth systems                           │
-  │                                                           │
-  └─ 🎓 Graduation (2026) ★                                  │
-```
-
----
 
 <div align="center">
 
