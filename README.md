@@ -23,12 +23,12 @@
 
 ```js
 const vladislav = {
-    role: "Backend Developer & Full-Stack Enthusiast",
-    education: "College — graduating 2026 🎓",
+    role: "Junior Developer — still learning every day",
+    education: "College student — graduating 2026 🎓",
     codingSince: 2022,
-    currentFocus: "Laravel ecosystem & modern frontend",
-    philosophy: "Real projects > tutorials",
-    funFact: "I've built everything from fitness apps to e-commerce platforms"
+    currentFocus: "Laravel + modern frontend",
+    philosophy: "Learn by doing, not by watching",
+    status: "Student → growing into a developer"
 };
 ```
 
