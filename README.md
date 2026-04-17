@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Badges -->
-[![Profile Views](https://komarev.com/ghpvc/?username=Vladislav727&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/Vladislav727)
+![Profile](https://img.shields.io/badge/Welcome-to%20my%20profile-1f6feb?style=for-the-badge&logo=github&logoColor=white)
 [![Repos](https://img.shields.io/badge/Public%20Repos-46+-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vladislav727?tab=repositories)
 [![Since](https://img.shields.io/badge/Coding%20Since-2022-1f6feb?style=for-the-badge&logo=todoist&logoColor=white)](#-timeline)
 
