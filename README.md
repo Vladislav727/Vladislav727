@@ -117,11 +117,9 @@ const vladislav = {
 
 <div align="center">
 
-### 🤝 Let's Connect
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> My Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vladislav727-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vladislav727)
-
-<br/>
+[![guns.lol](https://img.shields.io/badge/🔗%20guns.lol-Lik0y-1f6feb?style=for-the-badge)](https://guns.lol/Lik0y)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%" />
 
