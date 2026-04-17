@@ -55,9 +55,9 @@ const vladislav = {
     <img src="https://img.shields.io/badge/-%E2%9D%A4%EF%B8%8F%20LARAVEL%20ENTHUSIAST%20%E2%9D%A4%EF%B8%8F-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" />
   </a>
   <br/>
+  <img src="https://img.shields.io/badge/Filament-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Artisan-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Filament-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Livewire-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
 </div>
 
