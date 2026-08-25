@@ -75,18 +75,6 @@ My portfolio website showcasing projects and experience.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vladislav727&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=667eea&text_color=d1d5de&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladislav727&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=667eea&text_color=d1d5de)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on interesting projects or discussing web development.
